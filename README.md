@@ -27,9 +27,8 @@ Output:
  - Prediction models using various different machine learning methods
  
  
-========================================================================================
-=================================GitHub Repository======================================
-Repository Address: https://github.com/kwonkh0424/Titanic-1-
+GitHub Repository:
+Repository Address - https://github.com/kwonkh0424/Titanic-1-
 
-====================================Contact Info========================================
+Contact Info:
  Kooha Kwon (kwonkh0424@gmail.com)
