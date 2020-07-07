@@ -25,7 +25,11 @@ Required Input files:
 Output:
  - Data visualization of various features that affects survival rate of the passagners
  - Prediction models using various different machine learning methods
- 
+     - Logistic Regression
+     - K-Neighbors Classifier
+     - Decision Tree
+     - Random Forest
+     - Neural Network (MLP)
  
 GitHub Repository:
 Repository Address - https://github.com/kwonkh0424/Titanic-1-
